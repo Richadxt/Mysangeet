@@ -19,7 +19,7 @@
 
 ## Introduction
 
-MyMusicPlayer is a simple and user-friendly music player application for Android devices. This app is built using Dexter, Java, and Android Studio. It allows users to browse and play their favorite songs on their mobile devices with ease.
+Mysangeet is a simple and user-friendly music player application for Android devices. This app is built using Dexter, Java, and Android Studio. It allows users to browse and play their favorite songs on their mobile devices with ease.
 
 ## Features
 
@@ -45,12 +45,12 @@ Android 5.0 (Lollipop) or later.
 
 ## Installation
 
-To install MyMusicPlayer on your Android device, download the APK file from the releases page and follow the on-screen instructions.
+To install Mysangeet on your Android device, download the APK file from the releases page and follow the on-screen instructions.
 
 ## Usage
 
-After installing MyMusicPlayer, launch the app to access the main screen. From here, you can browse your music library, create and manage playlists, and customize playback settings.
+After installing Mysangeet, launch the app to access the main screen. From here, you can browse your music library, create and manage playlists, and customize playback settings.
 
 ## Contributing
 
-If you would like to contribute to the development of MyMusicPlayer, please submit a pull request or open an issue on the GitHub repository.
+If you would like to contribute to the development of Mysangeet, please submit a pull request or open an issue on the GitHub repository.
