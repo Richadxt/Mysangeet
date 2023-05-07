@@ -30,12 +30,10 @@ Play songs in the background while using other apps.
 
 ## Demo Screenshots
 
-<div> 
-
- <img src="demo1.jpeg">
- <img src="demo2.jpeg">
-
- </div>
+<div style="display:flex;">
+  <img src="demo1.jpeg" width="400" />
+  <img src="demo2.jpeg" width="400" />
+</div>
 
 
 ## Requirements
