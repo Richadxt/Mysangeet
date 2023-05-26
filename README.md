@@ -30,10 +30,9 @@ Play songs in the background while using other apps.
 
 ## Demo Screenshots
 
-<div style="display:flex;">
-  <img src="demo1.jpeg" width="400" />
-  <img src="demo2.jpeg" width="400" />
-</div>
+![WhatsApp Image 2023-05-26 at 18 16 59](https://github.com/Richadxt/Mysangeet/assets/96220521/0cf3e868-a679-471c-98d6-eaf0bb7c094e)
+![WhatsApp Image 2023-05-26 at 18 16 58](https://github.com/Richadxt/Mysangeet/assets/96220521/2fbd87a6-f2a9-4c5a-bd48-1444700eeb30)
+
 
 
 ## Requirements
